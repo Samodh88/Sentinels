@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MAD Projecr</string>
+    <string name="et_massage1">Enter The Delivery No</string>
+    <string name="et_massage2">Enter The Customer Name</string>
+    <string name="et_massage3">Enter The Phone Number</string>
+    <string name="et_massage4">Enter The Address</string>
+    <string name="btn1">Calculate</string>
+    <string name="btn2">Add</string>
+    <string name="btn3">Home</string>
+    <string name="btn4">Save Changes</string>
+    <string name="btn5">Home</string>
+    <string name="et_massage5">Enter The Date</string>
+    <string name="et_massage6">Enter Full Distance</string>
+    <string name="et_massage7">Enter Product Price</string>
+    <string name="et_massage8">"Enter Advance  Rupees"</string>
+    <string name="btn6">Calculate</string>
+    <string name="btn7">Update</string>
+    <string name="btn8">Delete</string>
+    <string name="btn9">Delivery Details</string>
+    <string name="btn10">Payment</string>
+    <string name="btn12">View</string>
+
+    <string name="btn13">Home</string>
+    <string name="txt_view1" />
+    <string name="text_view2" />
+    //pament home btn13
+</resources>
